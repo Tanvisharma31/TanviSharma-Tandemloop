@@ -55,7 +55,7 @@ Example:
 1. Make sure you have Python installed on your system
 2. Clone this repository
 ```bash
-git clone 
+git clone https://github.com/Tanvisharma31/TanviSharma-Tandemloop.git
 ```
 3. Run each problem file individually using Python:
    ```bash
